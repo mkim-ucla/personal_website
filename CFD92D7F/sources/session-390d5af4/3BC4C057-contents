@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - Resume.pdf
 
 website:
   title: "Minjae Kim"
