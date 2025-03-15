@@ -1,14 +1,14 @@
 {
-    "id": "6C8E61BE",
-    "path": "~/stats140xp_website/Work Experience/LMC_Clinic.qmd",
-    "project_path": "Work Experience/LMC_Clinic.qmd",
+    "id": "54153142",
+    "path": "~/stats140xp_website/about.qmd",
+    "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "2702014258",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1742023454509.0,
+    "created": 1742023427406.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,14 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "107:847",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1742028651,
+    "lastKnownWriteTime": 1742017309,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1742028651573,
+    "last_content_update": 1742017309,
     "read_only": false,
     "read_only_alternatives": []
 }

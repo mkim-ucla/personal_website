@@ -3,7 +3,7 @@
     "path": "~/stats140xp_website/projects/airpollution.qmd",
     "project_path": "projects/airpollution.qmd",
     "type": "quarto_markdown",
-    "hash": "2248049325",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1742024479803.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "112:0",
+        "rmdVisualModeLocation": "2:0",
         "cursorPosition": "6,0",
         "scrollLine": "0"
     },

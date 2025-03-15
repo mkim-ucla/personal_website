@@ -1,14 +1,14 @@
 {
-    "id": "51E2C8E5",
-    "path": "~/stats140xp_website/projects.qmd",
-    "project_path": "projects.qmd",
+    "id": "81D8F88E",
+    "path": "~/stats140xp_website/projects/pokeranalysis.qmd",
+    "project_path": "projects/pokeranalysis.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1742024163392.0,
+    "created": 1742024171775.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 5,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "2:107.5"
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1742025856,
+    "lastKnownWriteTime": 1742028391,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1742025856994,
+    "last_content_update": 1742029658369,
     "read_only": false,
     "read_only_alternatives": []
 }
