@@ -1,8 +1,7 @@
 ---
-title: "GyeongMin Kwon"
+title: "Minjae Kim"
 about: 
   template: trestles
-  image: profile_pic.jpg
   links: 
     - icon: github
       text: Github
@@ -20,7 +19,7 @@ Hi! I am a fourth-year undergraduate student at UCLA currently pursuing a major 
 
 # Education
 
-University of California, Los Angeles \newline *B.S. Statistics and Data Science* \newline Sept 2019 - Present
+University of California, Los Angeles \newline *B.S. Statistics and Data Science\* \newline Sept 2019 - Present
 
 # Current Occupation
 
