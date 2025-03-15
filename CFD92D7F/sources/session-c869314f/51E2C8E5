@@ -3,7 +3,7 @@
     "path": "~/stats140xp_website/projects.qmd",
     "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "341948078",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1742024163392.0,
@@ -18,7 +18,7 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "245:107.5"
+        "rmdVisualModeLocation": "2:107.5"
     },
     "folds": "",
     "lastKnownWriteTime": 1742025856,

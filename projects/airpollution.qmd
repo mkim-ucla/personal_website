@@ -4,13 +4,12 @@ format: html
 image: airpollution.png
 ---
 
-::: {.cell}
+```{r}
+#| echo: False
+knitr::include_graphics("airpollutionFront.png")
+```
 
-\<iframe src="[https://ecoairhealth.humspace.ucla.edu](https://ecoairhealth.humspace.ucla.edu/)" width="100%" height="500px"\>\</iframe\>
-
-:::
-
-\[Visit the Website\]([https://ecoairhealth.humspace.ucla.edu](https://ecoairhealth.humspace.ucla.edu/))
+[Visit the Website](https://ecoairhealth.humspace.ucla.edu)
 
 This project focused on exploring the relationship between air pollution, air quality index, and the number of respiratory patients across various hospitals in California.
 

@@ -4,7 +4,10 @@ format: html
 image: poker.jpg
 ---
 
-\includepdf[pages=-]{annotated-poker_bluff_prediction.pdf}
+```{r}
+#| echo: False
+knitr::include_graphics("poker_project.png")
+```
 
 [Download the PDF](annotated-poker_bluff_prediction.pdf)
 

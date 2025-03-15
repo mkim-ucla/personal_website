@@ -1,12 +1,12 @@
 ---
 title: "LMC Clinic"
 format: html
-image: lmcClinic_pfp.png
+image: lmc.jpg
 ---
 
-"Volunteer at Lifestyle Medicine UCLA" \| Nov 2025 - Current
-
 ![LMC Clinic](lmcClinic.png)
+
+**Volunteer at Lifestyle Medicine UCLA** \| Nov 2025 - Current
 
 -   collaborated with Pastor Williams to conduct free clinics across South Los Angeles to raise awareness on the importance of nutrition and exercise on personal health
 -   performed free health screenings including BMI tests, blood glucose tests and manual blood pressure tests
