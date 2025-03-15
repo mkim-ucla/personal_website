@@ -2,6 +2,7 @@
 title: "Minjae Kim"
 about: 
   template: trestles
+  image: profile_pic.jpg
   links: 
     - icon: github
       text: Github

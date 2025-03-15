@@ -1,0 +1,27 @@
+---
+title: "Minjae Kim"
+about: 
+  template: trestles
+  image: profile_pic.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/mkim-ucla
+    - text: LinkedIn
+      url: "linkedin.com/in/minjae-kim-5160162b7"
+    - text: Email
+      url: "mailto:mkim23@g.ucla.edu"
+      icon: inbox-fill
+    - text: RESUME
+      url: "Resume.pdf"
+---
+
+Hi! I am a fourth-year undergraduate student at UCLA currently pursuing a major in Statistics and Data Science and pre health.
+
+# Education
+
+University of California, Los Angeles \newline *B.S. Statistics and Data Science\* \newline Sept 2019 - Present
+
+# Current Occupation
+
+**Medical Assistant at Bethel Eye Center** (Dec 2023 - Current)
