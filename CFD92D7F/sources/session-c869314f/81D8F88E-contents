@@ -1,0 +1,15 @@
+---
+title: "Poker Analysis"
+format: html
+image: poker.jpg
+---
+
+\includepdf[pages=-]{annotated-poker_bluff_prediction.pdf}
+
+[Download the PDF](annotated-poker_bluff_prediction.pdf)
+
+This project analyzes the relationships between bet time, bet sizing and other such variables and whether the player is bluffing. The primary focus of the project was to see whether the time it takes to bet could uncover the deception of a bluff.
+
+Data was collected from hand histories of private, real-money cash games hosted on PokerNow.club platform. We then processed and cleaned these logs, filtering out any irrelevant records and extracting variables such as player action, timing information, and community cards.
+
+From this dataset, we were able to create a fairly accurate Long Short Term Memory model that predicted bluffs and values 82% of the time. We were also able to uncover inherent relationships between bluffing and community cards, player type, and their actions.

@@ -3,7 +3,7 @@
     "path": "~/stats140xp_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "838879577",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1742022148285.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "79:0",
+        "rmdVisualModeLocation": "365:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1742022514,
+    "lastKnownWriteTime": 1742023415,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1742022514731,
+    "last_content_update": 1742023415036,
     "read_only": false,
     "read_only_alternatives": []
 }
