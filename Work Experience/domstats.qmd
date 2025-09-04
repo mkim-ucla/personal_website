@@ -1,0 +1,13 @@
+---
+title: "DOMStats at David Geffen Medical School"
+format: html
+image: domstats.jfif
+---
+
+\![Department of Medicine Statistics Core, UCLA](domstats.jfif)
+
+**Volunteer Research Analyst at Department of Medicine Statistics Core, UCLA** \\\| Apr 2025 - Current
+
+At the Department of Medicine Statistics Core at UCLA, I am working under Dr. Myung Shin Sim as a volunteer research analyst. My principal jobs at this position are to clean data given to us by physicians or medical students, analyze the data using statistical methods, and to translate our findings into visualizations using R, Python or Tableau.
+
+Recently, I had the chance to work on a project that explored knowledge/experience gaps between Urology residents and general medicine residents on urology-related procedures and topics. This project involved building SQL pipelines to integrate multi-source data and applying statistical inference methods such as Chi-square, ANOVA and Fishers' Test to validate findings. The figures and tables I produced using R and Tableau is currently being incorporated into the research manuscript for publication.
